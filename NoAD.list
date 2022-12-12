@@ -5,3 +5,7 @@ host-suffix, vungle.com, reject
 host-suffix, self.events.data.microsoft.com, reject
 host-keyword, .adjust., reject
 host-suffix, 360os.com, reject
+host-suffix, adkwai.com, reject
+host-suffix, mobads.baidu.com, reject
+host-suffix, yangkeduo.com, reject
+host-suffix, voiceads.cn, reject
