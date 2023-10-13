@@ -10,3 +10,5 @@ host-suffix, mobads.baidu.com, reject
 host-suffix, yangkeduo.com, reject
 host-suffix, voiceads.cn, reject
 host-suffix, doubleclick-cn.net, reject
+host-suffix, jdqd.jd.com, reject
+host-suffix, shouji.sougou.com, reject
