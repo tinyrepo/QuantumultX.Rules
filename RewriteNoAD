@@ -1,0 +1,15 @@
+hostname = ucmp.sf-express.com,*.alicdn.com,app-gw.csdn.net,customer-app.sto.cn,sto-customer-app.oss-cn-shanghai.aliyuncs.co,webchatapp.fcbox.com,dsp.fcbox.com
+# 顺丰速运小程序广告
+^https?:\/\/ucmp\.sf-express\.com\/cx-wechat-query\/query\/info-flow\/reconsitution-list url reject-200
+# 淘宝开屏广告
+^https?:\/\/gw\.alicdn\.com\/imgextra\/i\d\/.+1125-1602\.jpg url reject-200
+^https:\/\/(heic|gw)\.alicdn\.com\/imgextra\/i\d\/.+-tps-(702-758|1125-1602)\.(heic|jpg|png) url reject-200
+# CSDN广告
+^https?:\/\/app-gw\.csdn\.net\/silkroad-api\/api\/v\d\/assemble\/list\/pub\/channel\/app_open_screen_ad url reject
+^https?:\/\/app-gw\.csdn\.net\/abtesting\/v2\/getList? url reject
+# 申通快递微信小程序净化
+^https:\/\/customer-app\.sto\.cn\/api\/app\/banner\/banner url reject-dict
+^https:\/\/sto-customer-app\.oss-cn-shanghai\.aliyuncs\.com\/images url reject-dict
+#丰巢微信小程序净化
+^https:\/\/webchatapp\.fcbox\.com\/fcboxactivityweb\/api\/v2\/clientPage url reject-dict
+^https:\/\/dsp\.fcbox\.com url reject-dict
