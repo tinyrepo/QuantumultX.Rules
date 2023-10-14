@@ -293,6 +293,7 @@ host, feedback.uc.cn, reject
 host, g1.163.com, reject
 host, galaxy.bjcathay.com, reject
 host, gecko-pangle-lf.snssdk.com, reject
+host, gdfp.gifshow.com, reject
 host, gj.applog.uc.cn, reject
 host, gj.track.uc.cn, reject
 host, gjapplog.uc.cn, reject
