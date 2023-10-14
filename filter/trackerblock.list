@@ -39,3 +39,5 @@ host-suffix, zoomanalytics.co, reject
 host-suffix, ads.linkedin.com, reject
 host, analytics.slashdotmedia.com, reject
 host, zgsdk.zhugeio.com, reject
+host-suffix, jdqd.jd.com, reject
+host-suffix, shouji.sougou.com, reject
