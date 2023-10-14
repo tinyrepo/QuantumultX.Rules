@@ -1,4 +1,5 @@
 host-keyword, apple.co, direct
+host-keyword, apple.cn, direct
 host-keyword, icloud.com, direct
 host-suffix, 1drv.com, direct
 host-keyword, wanxiao, direct
@@ -6,3 +7,6 @@ host-keyword, wanmei, direct
 host-keyword, .jpush.cn, direct
 host-keyword, pdd.net, direct
 host-keyword, alicdn.com, direct
+host-keyword, ctc.qzs.qzone.qq.com, direct
+host-keyword, aw-s.tripcdn.com, direct
+host-keyword, trip.com, direct
