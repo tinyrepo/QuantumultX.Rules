@@ -278,6 +278,7 @@ host, btrace.qq.com, reject
 host, btrace.video.qq.com, reject
 host, cartoonapi.uc.cn, reject
 host, cdn.adapi.fotoable.com, reject
+host, click.abchina.com, reject
 host, cm-10-138.getui.com, reject
 host, cms.uc.cn, reject
 host, coral.uc.cn, reject
@@ -1791,6 +1792,7 @@ host-suffix, adwo.com, reject
 host-suffix, adx.adxglobal.com, reject
 host-suffix, adx.chip.de, reject
 host-suffix, adx.dlads.cn, reject
+host-suffix, adx.hubcloud.com.cn, reject
 host-suffix, adx.hupu.com, reject
 host-suffix, adx.kat.ph, reject
 host-suffix, adx.open-adx.com, reject
