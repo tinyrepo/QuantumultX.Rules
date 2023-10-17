@@ -1,3 +1,13 @@
+host-suffix, umeng.com, reject
+host-suffix, doglobal.net, reject
+host-suffix, icanhazip.com, reject
+host-suffix, tj-haorui.cn, reject
+host-suffix, gifshow.com, reject
+host-suffix, 360os.com, reject
+host-suffix, hubcloud.com.cn, reject
+host-suffix, kuaishou.com, reject
+host-suffix, adkwai.com, reject
+host-suffix, fancyapi.com, reject
 #   >>>>>  USER-AGENT
 USER-AGENT, AVOS*, reject
 #   >>>>>  IP6-CIDR
