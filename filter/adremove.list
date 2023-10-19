@@ -8,6 +8,8 @@ host-suffix, hubcloud.com.cn, reject
 host-suffix, kuaishou.com, reject
 host-suffix, adkwai.com, reject
 host-suffix, fancyapi.com, reject
+host-suffix, lftxali.fancyapi.com, reject
+host-suffix, p1-lm.adkwai.com, reject
 #   >>>>>  USER-AGENT
 USER-AGENT, AVOS*, reject
 #   >>>>>  IP6-CIDR
