@@ -15,3 +15,4 @@ host-suffix, m.hotmail.com, direct
 host-suffix, storage.live.com, direct
 host-suffix, data.microsoft.com, direct
 host-suffix, api.onedrive.com, direct
+host-suffix, edge.skype.com, direct
