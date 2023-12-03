@@ -16,3 +16,5 @@ host-suffix, storage.live.com, direct
 host-suffix, data.microsoft.com, direct
 host-suffix, api.onedrive.com, direct
 host-suffix, edge.skype.com, direct
+HOST-KEYWORD, yuheng, DIRECT
+IP-CIDR, 172.233.81.206/24, DIRECT
