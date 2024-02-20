@@ -6,7 +6,7 @@
 #未开通试用
 https://cn.tradingview.com/api/v1/user/profile/me/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/TradingView.js
 #开通试用或者会员未到期
-https://cn.tradingview.com/order/apple/device/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/TradingView.js
+https://cn.tradingview.com/order/apple/receipt/ url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/TradingView.js
 
 [mitm]
 hostname = cn.tradingview.com
