@@ -1,3 +1,8 @@
+HOST-SUFFIX, tnc3-alisc1.zijieapi.com, reject
+HOST-SUFFIX, bid-algorix.cn, reject
+HOST-SUFFIX, mssdk.volces.com, reject
+HOST-SUFFIX, cdn.1rtb.com, reject
+HOST-SUFFIX, pangolin-sdk-toutiao1.com, reject
 HOST, 118.89.204.198, reject
 HOST, 39d83s.com, reject
 HOST, a.wkanx.com, reject
@@ -145,7 +150,7 @@ HOST, g.koowo.com, reject
 HOST, g1.163.com, reject
 HOST, g3.letv.com, reject
 HOST, galaxy.bjcathay.com, reject
-HOST, gdfp.gifshow.com, reject
+
 HOST, gecko-pangle-lf.snssdk.com, reject
 HOST, ggc.cmvideo.cn, reject
 HOST, ggic03.miguvideo.com, reject
@@ -166,7 +171,7 @@ HOST, hnrtg.iujkegbpo.xyz, reject
 HOST, holmeshelptest.uc.cn, reject
 HOST, httpdns.alicdn.com, reject
 HOST, hui.sohu.com, reject
-HOST, huichuan.sm.cn, reject
+
 HOST, huichuan-mc.sm.cn, reject
 HOST, iad.g.163.com, reject
 HOST, iad0ssl.pcauto.com.cn, reject
@@ -1465,7 +1470,6 @@ HOST-SUFFIX, adwo.com, reject
 HOST-SUFFIX, adx.adxglobal.com, reject
 HOST-SUFFIX, adx.chip.de, reject
 HOST-SUFFIX, adx.dlads.cn, reject
-HOST-SUFFIX, adx.hubcloud.com.cn, reject
 HOST-SUFFIX, adx.hupu.com, reject
 HOST-SUFFIX, adx.kat.ph, reject
 HOST-SUFFIX, adx.open-adx.com, reject
@@ -2581,7 +2585,6 @@ HOST-SUFFIX, cloudcdn.yousee.com, reject
 HOST-SUFFIX, cloudmobi.net, reject
 HOST-SUFFIX, cloudpush.iqiyi.com, reject
 HOST-SUFFIX, cm.ad.bilibili.com, reject
-HOST-SUFFIX, cm.ad.gifshow.com, reject
 HOST-SUFFIX, cm.adcommon.bilibili.com, reject
 HOST-SUFFIX, cm.adgrx.com, reject
 HOST-SUFFIX, cm.baidu.com, reject
@@ -5615,7 +5618,7 @@ HOST-SUFFIX, m.tuopp.com, reject
 HOST-SUFFIX, m.twldmx.com, reject
 HOST-SUFFIX, m.txtxr.com, reject
 HOST-SUFFIX, m.uc123.com, reject
-HOST-SUFFIX, m.uczzd.cn, reject
+
 HOST-SUFFIX, m.ueram.com, reject
 HOST-SUFFIX, m.uissm.com, reject
 HOST-SUFFIX, m.vaxyz.com, reject
@@ -6353,7 +6356,7 @@ HOST-SUFFIX, p215223.inclk.com, reject
 HOST-SUFFIX, p215223.mycdn2.co, reject
 HOST-SUFFIX, p242.plainwrk.name, reject
 HOST-SUFFIX, p2pmid.baofeng.com, reject
-HOST-SUFFIX, p3-be-pack-sign.pglstatp-toutiao.com, reject
+HOST-SUFFIX, pglstatp-toutiao.com, reject
 HOST-SUFFIX, p3p.mmstat.com, reject
 HOST-SUFFIX, p3p.sogou.com, reject
 HOST-SUFFIX, p3p.yahoo.com, reject
@@ -6464,6 +6467,7 @@ HOST-SUFFIX, pfp.sina.com.cn, reject
 HOST-SUFFIX, pfpip.sina.com, reject
 HOST-SUFFIX, pgdt.gtimg.com, reject
 HOST-SUFFIX, pgdt.ugdtimg.com, reject
+HOST-SUFFIX, qzs.gdtimg.com, reject
 HOST-SUFFIX, phloxsub73ulata.com, reject
 HOST-SUFFIX, photo.dhford.cn, reject
 HOST-SUFFIX, photo.lyghjzs.cn, reject
@@ -7997,6 +8001,7 @@ HOST-SUFFIX, ucxxii.com, reject
 HOST-SUFFIX, uczzd.com, reject
 HOST-SUFFIX, uczzd.com.cn, reject
 HOST-SUFFIX, uczzd.net, reject
+HOST-SUFFIX, uczzd.cn, reject
 HOST-SUFFIX, udata.mixmarket.biz, reject
 HOST-SUFFIX, udc.msn.com, reject
 HOST-SUFFIX, udm.scorecardresearch.com, reject
