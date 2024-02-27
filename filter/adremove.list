@@ -3,6 +3,9 @@ HOST-SUFFIX, bid-algorix.cn, reject
 HOST-SUFFIX, mssdk.volces.com, reject
 HOST-SUFFIX, cdn.1rtb.com, reject
 HOST-SUFFIX, pangolin-sdk-toutiao1.com, reject
+HOST, 59.82.44.219, reject
+HOST, 119.84.52.225, reject
+HOST-SUFFIX, vt.bidex.cn, reject
 HOST, 118.89.204.198, reject
 HOST, 39d83s.com, reject
 HOST, a.wkanx.com, reject
@@ -150,7 +153,6 @@ HOST, g.koowo.com, reject
 HOST, g1.163.com, reject
 HOST, g3.letv.com, reject
 HOST, galaxy.bjcathay.com, reject
-
 HOST, gecko-pangle-lf.snssdk.com, reject
 HOST, ggc.cmvideo.cn, reject
 HOST, ggic03.miguvideo.com, reject
@@ -171,7 +173,6 @@ HOST, hnrtg.iujkegbpo.xyz, reject
 HOST, holmeshelptest.uc.cn, reject
 HOST, httpdns.alicdn.com, reject
 HOST, hui.sohu.com, reject
-
 HOST, huichuan-mc.sm.cn, reject
 HOST, iad.g.163.com, reject
 HOST, iad0ssl.pcauto.com.cn, reject
@@ -1343,7 +1344,7 @@ HOST-SUFFIX, ads.service.kugou.com, reject
 HOST-SUFFIX, ads.sohu.com, reject
 HOST-SUFFIX, ads.superad.cc, reject
 HOST-SUFFIX, ads.uc.cn, reject
-HOST-SUFFIX, ads.weilitoutiao.net, reject
+HOST-SUFFIX, weilitoutiao.net, reject
 HOST-SUFFIX, ads1.lfengmobile.com, reject
 HOST-SUFFIX, ads1.msads.net, reject
 HOST-SUFFIX, ads1.msn.com, reject
@@ -9455,4 +9456,4 @@ IP-CIDR, 223.87.182.52/32, reject
 IP-CIDR, 47.99.42.29/32, reject
 IP-CIDR, 47.246.20.231/32, reject
 HOST-SUFFIX, in.vipliangmei.com, reject
-HOST-SUFFIX, sdk.beizi.biz, reject
+HOST-SUFFIX, beizi.biz, reject
