@@ -11,6 +11,16 @@ HOST-SUFFIX, ads.vungle.com, REJECT
 HOST-SUFFIX, applovin.com, REJECT
 HOST-SUFFIX, applvn.com, REJECT
 HOST-SUFFIX, unityads.unity3d.com, REJECT
+HOST-SUFFIX, getui.com, reject
+HOST-SUFFIX, igexin.com, reject
+HOST-SUFFIX, gs.getui.com, reject
+host-suffix, api.y.igexin.com, reject
+host-suffix, sdk.open.lbs.igexin.com, reject
+host-suffix, sdk.open.amp.igexin.com, reject
+host-suffix, sdk.open.talk.igexin.com, reject
+host-suffix, sdk.conf.igexin.com, reject
+HOST, wxsnsdy.wxs.qq.com, REJECT
+HOST, wxsnsdythumb.wxs.qq.com, REJECT
 HOST, init.supersonicads.com, REJECT
 HOST, ws.tapjoyads.com, REJECT
 HOST-SUFFIX, appsflyer.com, REJECT
